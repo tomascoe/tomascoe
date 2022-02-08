@@ -14,6 +14,7 @@
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS'/>
   <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap'/>
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
+  <br>
   <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery'/>
   <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white' alt='JSON'/>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React.js'/>
@@ -36,13 +37,15 @@
 </p>
 
 
-<h1 align='center'>📫 Get in touch with me...</h1>
+<h1 align='center'>📫 My Links</h1>
+<br>
  <p align='center'>
     <a href='mailto:tomascoe.wd@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/></a>
     <a href='https://www.linkedin.com/in/tomascoe/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'       alt='LinkedIn'/></a>
     <a href='https://www.instagram.com/tomi_coelho/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Instagram'/></a>
   <br>
- My email: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
+  <br>
+ Get in touch with me: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/tomascoe/tomascoe"></a>
