@@ -44,7 +44,7 @@
     <a href='https://www.instagram.com/tomi_coelho/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'/></a>
   <br>
   <br>
- Get in touch with me: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
+ Get in touch: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/tomascoe/tomascoe"></a>
