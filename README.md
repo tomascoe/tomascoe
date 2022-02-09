@@ -26,17 +26,17 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tomascoe&show_icons=true&count_private=true&theme=dark" width="400"></a>
 </p>
 
+
+<h3 align='center'>My Coding Setup 💻</h3>
+<br>
 <p align='center'>
-  My Coding Setup 💻
-  <br>
-  <br>
   <img src='https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white' alt='Apple Silicon'/>
   <img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' alt='Neovim'/>
   <img src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E' alt='Prettier'/>
 </p>
 
 
-<h1 align='center'>📫 My Links</h1>
+<h2 align='center'>My Links</h2>
 <br>
  <p align='center'>
     <a href='mailto:tomascoe.wd@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/></a>
@@ -44,7 +44,7 @@
     <a href='https://www.instagram.com/tomi_coelho/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'/></a>
   <br>
   <br>
- Get in touch: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
+ 📫 Get in touch: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/tomascoe/tomascoe"></a>
