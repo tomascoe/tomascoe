@@ -46,7 +46,3 @@
   <br>
  📫 Get in touch: <a href='mailto:tomascoe.wd@gmail.com'>tomascoe.wd@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/tomascoe/tomascoe"></a>
-</p>
- 
